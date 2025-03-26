@@ -58,9 +58,6 @@ else:
     print("Temperatura dentro dos limites normais.")
 ```
 
-### Questão 5: Tabela Verdade (Interface Gráfica)
-Desenvolva uma interface gráfica que gere uma tabela verdade para duas proposições inseridas pelo usuário. Utilize tkinter para criar a interface.
-
 ## Como Configurar o Git
 
 Se você ainda não configurou o Git na sua máquina, siga os passos abaixo:
